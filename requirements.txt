@@ -1,0 +1,11 @@
+# Core dependencies
+gymnasium
+tqdm
+matplotlib
+pandas
+numpy
+
+# PyTorch CPU build
+torch --index-url https://download.pytorch.org/whl/cpu
+torchvision --index-url https://download.pytorch.org/whl/cpu
+torchaudio --index-url https://download.pytorch.org/whl/cpu
