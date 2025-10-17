@@ -1,4 +1,4 @@
-# Technical Documentation: Q-Learning Implementation for Taxi-v3 Environment
+# Technical Documentation: Q-Learning Implementation for Taxi Environment
 
 ## 1. Project Overview
 
